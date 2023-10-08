@@ -105,7 +105,7 @@ body {
 h1, h2, h3, h4, h5, h6, #dynamic-heading {
   font-family: 'Sans Bold';
   line-height: var(--line-height-tight);
-  width: fit-content;
+  width: 100%;
   margin: var(--spacing-base) 0;
 }
 
