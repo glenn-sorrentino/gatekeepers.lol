@@ -102,7 +102,7 @@ body {
   font-size: var(--font-size-body);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, #dynamic-heading {
   font-family: 'Sans Bold';
   line-height: var(--line-height-tight);
   width: fit-content;
@@ -119,7 +119,8 @@ article h6 {
 
 }
 
-h2 {
+h2,
+#dynamic-heading {
   font-size: var(--font-size-2);
   margin-top: var(--spacing-base);
   margin-bottom: var(--spacing-base);
@@ -191,7 +192,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 }
 
 @media only screen and (max-width: 1440px) {
-  h2 {
+  h2,
+  #dynamic-heading {
     font-size: calc(var(--font-size-2) * .9);
   }
 
@@ -217,7 +219,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 
 @media only screen and (max-width: 768px) {
 
-  h2 {
+  h2,
+  #dynamic-heading {
     font-size: calc(var(--font-size-2) * .8);
   }
 
@@ -241,7 +244,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 
 @media only screen and (max-width: 640px) {
 
-  h2 {
+  h2,
+  #dynamic-heading {
     font-size: calc(var(--font-size-2) * .7);
   }
 
@@ -268,7 +272,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 
 @media only screen and (max-width: 480px) {
 
-  h2 {
+  h2,
+  #dynamic-heading {
     font-size: calc(var(--font-size-2) * .6);
   }
 
