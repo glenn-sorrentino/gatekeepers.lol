@@ -11,6 +11,10 @@
 
 }
 
+#dynamic-heading {
+	font-family: Courier, monospace;
+}
+
 @media only screen and (max-width: 1280px) {
 
 }
