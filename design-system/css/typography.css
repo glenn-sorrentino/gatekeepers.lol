@@ -114,7 +114,7 @@ article h6 {
 }
 
 h2 {
-  font-size: var(--font-size-1);
+  font-size: var(--font-size-2);
   margin-top: var(--spacing-base);
   margin-bottom: var(--spacing-base);
 }
@@ -186,7 +186,7 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 
 @media only screen and (max-width: 1440px) {
   h2 {
-    font-size: calc(var(--font-size-1) * .9);
+    font-size: calc(var(--font-size-2) * .9);
   }
 
   h3 {
@@ -212,7 +212,7 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 @media only screen and (max-width: 768px) {
 
   h2 {
-    font-size: calc(var(--font-size-1) * .8);
+    font-size: calc(var(--font-size-2) * .8);
   }
 
   h3 {
@@ -236,7 +236,7 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 @media only screen and (max-width: 640px) {
 
   h2 {
-    font-size: calc(var(--font-size-1) * .7);
+    font-size: calc(var(--font-size-2) * .7);
   }
 
   h3 {
@@ -263,7 +263,7 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 @media only screen and (max-width: 480px) {
 
   h2 {
-    font-size: calc(var(--font-size-1) * .6);
+    font-size: calc(var(--font-size-2) * .6);
   }
 
 }
