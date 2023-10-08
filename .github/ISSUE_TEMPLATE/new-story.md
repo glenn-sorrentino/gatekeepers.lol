@@ -1,6 +1,6 @@
 ---
-name: New Poem
-about: Submit a poem about gatekeepers
+name: New Story
+about: " Submit a story about gatekeepers "
 title: ''
 labels: ''
 assignees: ''
