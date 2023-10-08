@@ -60,6 +60,7 @@ header .wrapper {
 header h1 {
   width: fit-content;
   font-size: var(--font-size-logo) !important;
+  font-family: 'Cursive', serif !important;
 }
 
 header .logo {
@@ -72,6 +73,7 @@ header .logo {
   width: fit-content;
   position: relative;
   top: -1px;
+  font-family: 'Cursive', serif !important;
 }
 
 header a {
