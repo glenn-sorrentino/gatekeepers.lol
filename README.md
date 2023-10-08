@@ -1,4 +1,4 @@
-# 😂 Gatekeepers.lol
+# Gatekeepers.😂
 
 Gatekeepers are all around us, and it's time we normalize laughing at them. 
 
